@@ -52,4 +52,12 @@
         android:id="@+id/button_calcular"
         android:layout_gravity="center_horizontal"
         android:onClick="onCalcular" />
+
+    <Button
+        style="?android:attr/buttonStyleSmall"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Lista"
+        android:id="@+id/button"
+        android:onClick="onList" />
 </LinearLayout>
