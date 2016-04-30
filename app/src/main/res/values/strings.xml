@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">Projeto Contas</string>
+    <string name="contas_a_pagar">Contas a pagar</string>
+    <string name="agua">Água</string>
+    <string name="telefone">Telefone</string>
+    <string name="luz">Luz</string>
+    <string name="outra">Outra</string>
+    <string name="calcular">Calcular</string>
 </resources>
